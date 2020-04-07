@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.8276c25b.chunk.css",
+    "main.css": "/static/css/main.ceb21056.chunk.css",
     "main.js": "/static/js/main.08a0d32b.chunk.js",
     "main.js.map": "/static/js/main.08a0d32b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ebbb9f8b.js",
@@ -8,9 +8,9 @@
     "static/js/2.5485c2f2.chunk.js": "/static/js/2.5485c2f2.chunk.js",
     "static/js/2.5485c2f2.chunk.js.map": "/static/js/2.5485c2f2.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.f172f70434c6448b59f054d12b0f4d10.js": "/precache-manifest.f172f70434c6448b59f054d12b0f4d10.js",
+    "precache-manifest.4817c4257fe2ee7309065ce63ab3d825.js": "/precache-manifest.4817c4257fe2ee7309065ce63ab3d825.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.8276c25b.chunk.css.map": "/static/css/main.8276c25b.chunk.css.map",
+    "static/css/main.ceb21056.chunk.css.map": "/static/css/main.ceb21056.chunk.css.map",
     "static/js/2.5485c2f2.chunk.js.LICENSE.txt": "/static/js/2.5485c2f2.chunk.js.LICENSE.txt",
     "static/media/twitch.svg": "/static/media/twitch.e1f7813a.svg",
     "static/media/watch.svg": "/static/media/watch.ddf443c3.svg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.ebbb9f8b.js",
     "static/js/2.5485c2f2.chunk.js",
-    "static/css/main.8276c25b.chunk.css",
+    "static/css/main.ceb21056.chunk.css",
     "static/js/main.08a0d32b.chunk.js"
   ]
 }
