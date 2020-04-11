@@ -10,6 +10,15 @@ object-assign
  * https://github.com/jhlywa/chess.js/blob/master/LICENSE
  */
 
+/*!
+ * The buffer module from node.js, for the browser.
+ *
+ * @author   Feross Aboukhadijeh <http://feross.org>
+ * @license  MIT
+ */
+
+/*! https://mths.be/utf8js v2.1.2 by @mathias */
+
 /** @license React v0.19.1
  * scheduler.production.min.js
  *
