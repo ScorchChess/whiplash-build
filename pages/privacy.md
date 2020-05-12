@@ -22,6 +22,10 @@ ScorchResults collects:
 
 If you create an account, you will be asked to provide your email address. You can also choose to add content your public user profile.
 
+2. Third-party link information
+
+3. OAuth tokens for chess-playing websites
+
 ## Why this information is collected and how it’s used
 
 1. User submitted information.
@@ -33,6 +37,14 @@ Any content you add to your profile is optional, as is the option to make it pub
 2. Disclosing your information.
 
 Your information will only be disclosed if it is legally necessary to do so. For example, if ScorchChess is ordered to hand over a certain user’s information, or if someone hacks any ScorchChess product.
+
+3. Third-party link information.
+
+At your request, ScorchResults maintains a list of popular social media sites and chess-playing websites which you have verified you own. The verification methods ScorchResults employs is OAuth, though suitable alternatives (such as pasting codes into public views of a site) are employed where this is not possible. ScorchResults maintains data on which accounts you have verified and any access tokens with the permissions you have provided. Links and tokens can be revoked at any time.
+
+4. OAuth tokens for chess-playing websites
+
+ScorchResults executes certain features via 3rd-party chess-playing websites, such as creating challenges or reading game history. Permission is explicitly requested from you to gain these access tokens. Links and tokens can be revoked at any time.
 
 ## Cookies
 
