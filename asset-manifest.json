@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.85b17bcb.chunk.css",
+    "main.js": "/static/js/main.91e16ffb.chunk.js",
+    "main.js.map": "/static/js/main.91e16ffb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.dca657c8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.dca657c8.js.map",
+    "static/css/2.3c70ad01.chunk.css": "/static/css/2.3c70ad01.chunk.css",
+    "static/js/2.4c8a820a.chunk.js": "/static/js/2.4c8a820a.chunk.js",
+    "static/js/2.4c8a820a.chunk.js.map": "/static/js/2.4c8a820a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ecc251344a7a4593b92e4db094f834c1.js": "/precache-manifest.ecc251344a7a4593b92e4db094f834c1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.3c70ad01.chunk.css.map": "/static/css/2.3c70ad01.chunk.css.map",
+    "static/css/main.85b17bcb.chunk.css.map": "/static/css/main.85b17bcb.chunk.css.map",
+    "static/js/2.4c8a820a.chunk.js.LICENSE.txt": "/static/js/2.4c8a820a.chunk.js.LICENSE.txt",
+    "static/media/chessCom.svg": "/static/media/chessCom.228db28e.svg",
+    "static/media/ecf.svg": "/static/media/ecf.68e0df94.svg",
+    "static/media/fide.svg": "/static/media/fide.03cb669d.svg",
+    "static/media/lichess.svg": "/static/media/lichess.9ff6e305.svg",
+    "static/media/twitch.svg": "/static/media/twitch.e1f7813a.svg",
+    "static/media/watch.svg": "/static/media/watch.ddf443c3.svg",
+    "static/media/youtube.svg": "/static/media/youtube.46bc6904.svg",
+    "static/media/zoom.svg": "/static/media/zoom.83081771.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dca657c8.js",
+    "static/css/2.3c70ad01.chunk.css",
+    "static/js/2.4c8a820a.chunk.js",
+    "static/css/main.85b17bcb.chunk.css",
+    "static/js/main.91e16ffb.chunk.js"
+  ]
+}
