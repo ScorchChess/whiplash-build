@@ -1,0 +1,74 @@
+self.__precacheManifest = (self.__precacheManifest || []).concat([
+  {
+    "revision": "4a45553167b79b751e567521c34c6b48",
+    "url": "/index.html"
+  },
+  {
+    "revision": "3f09132f5e469e46a13a",
+    "url": "/static/css/2.3c70ad01.chunk.css"
+  },
+  {
+    "revision": "f5511ee08fc7c6c241b9",
+    "url": "/static/css/main.bb18222b.chunk.css"
+  },
+  {
+    "revision": "3f09132f5e469e46a13a",
+    "url": "/static/js/2.63d820d7.chunk.js"
+  },
+  {
+    "revision": "8e0feaf258effc9bfb879125eb70d220",
+    "url": "/static/js/2.63d820d7.chunk.js.LICENSE.txt"
+  },
+  {
+    "revision": "f5511ee08fc7c6c241b9",
+    "url": "/static/js/main.c0bdb8c1.chunk.js"
+  },
+  {
+    "revision": "7eae13fa285ddd466b2b",
+    "url": "/static/js/runtime-main.dca657c8.js"
+  },
+  {
+    "revision": "228db28eb4a3c4aa352f3fb02f688341",
+    "url": "/static/media/chessCom.228db28e.svg"
+  },
+  {
+    "revision": "68e0df946495c09348f12cdb186b5f5b",
+    "url": "/static/media/ecf.68e0df94.svg"
+  },
+  {
+    "revision": "03cb669db7cc8809255af2b48fa755ce",
+    "url": "/static/media/fide.03cb669d.svg"
+  },
+  {
+    "revision": "9ff6e3058262c6adc0596b28b8279ddc",
+    "url": "/static/media/lichess.9ff6e305.svg"
+  },
+  {
+    "revision": "7f400e7178e77e0cb1f6c32d6552de28",
+    "url": "/static/media/sword0.7f400e71.png"
+  },
+  {
+    "revision": "f8f5e5ccc99c6acba59eee9f5cae55a4",
+    "url": "/static/media/sword1.f8f5e5cc.png"
+  },
+  {
+    "revision": "e3d34df389ac10a4267e249da7e5f6b4",
+    "url": "/static/media/sword2.e3d34df3.png"
+  },
+  {
+    "revision": "e1f7813a81c4579705af8aec19b9aac0",
+    "url": "/static/media/twitch.e1f7813a.svg"
+  },
+  {
+    "revision": "ddf443c397b5e705c29c22174e082972",
+    "url": "/static/media/watch.ddf443c3.svg"
+  },
+  {
+    "revision": "46bc69048b59bb79de5e78c84cdf683a",
+    "url": "/static/media/youtube.46bc6904.svg"
+  },
+  {
+    "revision": "83081771b6b57abfb4c37a5d6f1e0a9a",
+    "url": "/static/media/zoom.83081771.svg"
+  }
+]);
