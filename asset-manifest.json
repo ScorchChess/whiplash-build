@@ -1,26 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.bb18222b.chunk.css",
-    "main.js": "/static/js/main.c0bdb8c1.chunk.js",
-    "main.js.map": "/static/js/main.c0bdb8c1.chunk.js.map",
+    "main.css": "/static/css/main.b80b0826.chunk.css",
+    "main.js": "/static/js/main.15bf4c4f.chunk.js",
+    "main.js.map": "/static/js/main.15bf4c4f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.dca657c8.js",
     "runtime-main.js.map": "/static/js/runtime-main.dca657c8.js.map",
     "static/css/2.3c70ad01.chunk.css": "/static/css/2.3c70ad01.chunk.css",
-    "static/js/2.63d820d7.chunk.js": "/static/js/2.63d820d7.chunk.js",
-    "static/js/2.63d820d7.chunk.js.map": "/static/js/2.63d820d7.chunk.js.map",
+    "static/js/2.1f6b0705.chunk.js": "/static/js/2.1f6b0705.chunk.js",
+    "static/js/2.1f6b0705.chunk.js.map": "/static/js/2.1f6b0705.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d36835fa91829c33aa9a4bab3a583dfe.js": "/precache-manifest.d36835fa91829c33aa9a4bab3a583dfe.js",
+    "precache-manifest.7cdd4e3fab82a9cc27374ac98f7fa9f2.js": "/precache-manifest.7cdd4e3fab82a9cc27374ac98f7fa9f2.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.3c70ad01.chunk.css.map": "/static/css/2.3c70ad01.chunk.css.map",
-    "static/css/main.bb18222b.chunk.css.map": "/static/css/main.bb18222b.chunk.css.map",
-    "static/js/2.63d820d7.chunk.js.LICENSE.txt": "/static/js/2.63d820d7.chunk.js.LICENSE.txt",
+    "static/css/main.b80b0826.chunk.css.map": "/static/css/main.b80b0826.chunk.css.map",
+    "static/js/2.1f6b0705.chunk.js.LICENSE.txt": "/static/js/2.1f6b0705.chunk.js.LICENSE.txt",
     "static/media/chessCom.svg": "/static/media/chessCom.228db28e.svg",
     "static/media/ecf.svg": "/static/media/ecf.68e0df94.svg",
     "static/media/fide.svg": "/static/media/fide.03cb669d.svg",
     "static/media/lichess.svg": "/static/media/lichess.9ff6e305.svg",
-    "static/media/sword0.png": "/static/media/sword0.7f400e71.png",
-    "static/media/sword1.png": "/static/media/sword1.f8f5e5cc.png",
-    "static/media/sword2.png": "/static/media/sword2.e3d34df3.png",
     "static/media/twitch.svg": "/static/media/twitch.e1f7813a.svg",
     "static/media/watch.svg": "/static/media/watch.ddf443c3.svg",
     "static/media/youtube.svg": "/static/media/youtube.46bc6904.svg",
@@ -29,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.dca657c8.js",
     "static/css/2.3c70ad01.chunk.css",
-    "static/js/2.63d820d7.chunk.js",
-    "static/css/main.bb18222b.chunk.css",
-    "static/js/main.c0bdb8c1.chunk.js"
+    "static/js/2.1f6b0705.chunk.js",
+    "static/css/main.b80b0826.chunk.css",
+    "static/js/main.15bf4c4f.chunk.js"
   ]
 }
